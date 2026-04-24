@@ -13,6 +13,7 @@ Customer churn directly impacts revenue and long‑term profitability. This proj
 - ✔ Generates **churn probability scores** for each customer
 - ✔ Explains predictions with **SHAP** feature importance
 - ✔ Provides a live **Streamlit web app** for what‑if simulations
+- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churn-prediction-pomya88tkgqkc3kktlymnu.streamlit.app/)
 
 ---
 
